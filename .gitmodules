@@ -1,0 +1,10 @@
+[submodule "liquorice"]
+	path = liquorice
+	url = https://github.com/eliasson/liquorice.git
+[submodule "themes/liquorice"]
+	path = themes/liquorice
+	url = https://github.com/eliasson/liquorice.git
+[submodule "public"]
+	path = public
+	url = https://github.com/MinJY/MinJY.github.io.git
+	branch = master
